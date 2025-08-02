@@ -51,3 +51,27 @@ This will **delete all data** on the selected disk. Make sure you’ve backed up
 If you prefer to create your own partition layout, choose **"Manual partitioning"** instead.
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+## Step 7: Desktop Environment Selection
+
+Select the "No Desktop" option.
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+## Step 8: **Uncheck the "CachyOS Configuration" and "CachyOS Shell Packages" options.**
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+## Step  9: **User configuration**
+
+Enter your username, password, and confirm the password.
+
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+## Step 10: Then just click the "Install" button.
+
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+## Step 11: **Wait for the installation to finish, then restart your PC.**
+
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
