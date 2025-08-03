@@ -91,4 +91,4 @@ bash
 bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
 ```
 
-The above clones the repo to `~/.cache/dots-hyprland`. To make that somewhere else, specify a path as another argument
+The above clones the repo to `~/.cache/dots-hyprland`.&#x20;
