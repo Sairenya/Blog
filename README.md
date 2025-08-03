@@ -75,3 +75,20 @@ Enter your username, password, and confirm the password.
 ## Step 11: **Wait for the installation to finish, then restart your PC.**
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+## Step 12: Setting up end-4 dotfiles
+
+1. To begin, please enter your username and password.
+2. Enter the following command to start a Bash shell:
+
+```bash
+bash
+```
+
+3. Run this one line and follow the prompts:
+
+```bash
+bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
+```
+
+The above clones the repo to `~/.cache/dots-hyprland`. To make that somewhere else, specify a path as another argument
